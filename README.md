@@ -1,3 +1,1 @@
-# object-recognition
-Bilgisayarlı Görü: YOLOv4 ile Nesne Tanıma 
-Bu projede opencv kütüphanesi ile araçları tanıyan bir model oluşturulmuştur.
+Bu proje, Boston Dynamics'in etkileyici Spot robotunu tanımak için geliştirilen bir modeli içerir. Bu model, görüntü ve video verilerini kullanarak Spot robotunu tespit etmek, izlemek ve sınıflandırmak için eğitildi. Robotun farklı açılardan ve ortamlardan algılanabilmesini sağlamak için derin öğrenme teknikleri kullanıldı. Amacımız, bu modeli açık kaynak olarak sunarak Spot robotunu tanıma konusunda daha fazla araştırmacı ve geliştiriciye yardımcı olmaktır
